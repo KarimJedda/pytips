@@ -1,3 +1,4 @@
+![header](http://i.imgur.com/KGrV41o.png)
 This project is inspired by jstips and follows the same idea :) https://github.com/loverajoel/jstips
 
 # Introducing Python Tips
